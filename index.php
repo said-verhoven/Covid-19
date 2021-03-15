@@ -97,7 +97,7 @@
     </div>
     <footer class="footer mt-auto py-3 bg-light bg-light">
   <div class="container text-center">
-    <span class="text-muted">Copyright &copy; 2021 Said B.</span>
+    <span class="text-muted">Copyright &copy; 2021 Said Bboudkhil.</span>
   </div>
 </footer>
 </body>
