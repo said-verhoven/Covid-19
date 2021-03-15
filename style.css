@@ -1,0 +1,15 @@
+body{
+    font-family: 'Baloo Thambi 2', cursive;
+}
+
+.thead-dark{
+    background-color: #333;
+    color: antiquewhite;
+}
+
+/*#bg{
+    background-image: url('covid2.jpeg') !important ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*/
